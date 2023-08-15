@@ -14,7 +14,7 @@ _class:
 
 # Deploy Marp to GitHub Pages
 
-Presentations to Webpages: Instantly!
+Presentations to Webpages: Instantly! **maj**
 
 ## What?
 
